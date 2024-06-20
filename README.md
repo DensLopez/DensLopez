@@ -33,6 +33,8 @@ private compositing_music() {}
 
 </p>
 
+---------------------------------
+
 <p>
 Currently I’m learning Python for Data Science <img src="gifs/studying.gif" width="30"> </p>
 
