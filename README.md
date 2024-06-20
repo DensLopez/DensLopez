@@ -1,9 +1,7 @@
 <h2> Hello, I'm Dennis <img src="gifs/anime.gif" width="50"> </h2>
-
--------------------
-
+<br />
 <p>
-Currently I’m learning Python for Data Science <img src="gifs/studying.gif" width="30">
+Currently I’m learning Python for Data Science
 </p>
 <br />
 <br />
@@ -38,8 +36,6 @@ private compositing_music() {}
 ```
 
 </p>
-
----------------------------------
 
 ---------------------------
 
