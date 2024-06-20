@@ -13,7 +13,7 @@
 </div>
 </em>
 </p>
-<p> <img align='right' src="gifs/work.gif" width="280">
+<p> <img align='right' src="gifs/work.gif" width="230">
 
 ```typescript
 class Engineer {
