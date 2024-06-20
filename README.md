@@ -13,25 +13,28 @@
 </div>
 </em>
 </p>
-<p> <img align='center' src="gifs/work.gif" width="300"> </p>
+<p> <img align='right' src="gifs/work.gif" width="300">
 
 ```typescript
 class Engineer {
-  name = 'Dennis';
-  lastname = 'López';
-  hobbies = 'Reading', 
-              'Listening to music', 
-              'Playing musical instruments', 
-              'Drawing';
-  languages = ['C', 'C++', 'Python'];
-  coding() {}
-  reading() {}
-  learning() {}
-  private compositing_music() {}
+name = 'Dennis';
+lastname = 'López';
+hobbies = 'Reading', 
+            'Listening to music', 
+            'Playing musical instruments', 
+            'Drawing';
+languages = ['C', 'C++', 'Python'];
+coding() {}
+reading() {}
+learning() {}
+private compositing_music() {}
 }
 ```
 
-Currently I’m learning Python for Data Science <img src="gifs/studying.gif" width="30">
+</p>
+
+<p>
+Currently I’m learning Python for Data Science <img src="gifs/studying.gif" width="30"> </p>
 
 <div>
   <em>"I really enjoy meeting new people, let's connect!" 
