@@ -32,7 +32,7 @@ languages = ['C', 'C++', 'Python'];
 coding() {}
 reading() {}
 learning() {}
-private compositing_music() {}
+private composing_music() {}
 }
 ```
 
