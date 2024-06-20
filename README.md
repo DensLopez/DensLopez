@@ -17,6 +17,8 @@ Currently I’m learning Python for Data Science
 </div>
 </em>
 </p>
+<br />
+<br />
 <p> <img align='right' src="gifs/work.gif" width="230">
 
 ```typescript
@@ -36,9 +38,11 @@ private compositing_music() {}
 ```
 
 </p>
+<br />
 
 ---------------------------
 
+<br />
 <div>
   <em>"I really enjoy meeting new people, so let's connect!" 
     <p> <img align='center' <img src="gifs/excuse.gif" width="50"> </em> </p>
