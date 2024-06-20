@@ -2,6 +2,12 @@
 
 -------------------
 
+<p>
+Currently I’m learning Python for Data Science <img src="gifs/studying.gif" width="30">
+</p>
+<br />
+<br />
+
 <p><em>I’m interested in: 
 <div>
   <ul>
@@ -34,9 +40,6 @@ private compositing_music() {}
 </p>
 
 ---------------------------------
-
-<p>
-Currently I’m learning Python for Data Science <img src="gifs/studying.gif" width="30"> </p>
 
 ---------------------------
 
