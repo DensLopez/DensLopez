@@ -20,18 +20,22 @@ Currently I’m learning Python for Data Science
 <br />
 <p> <img align='right' src="gifs/work.gif" width="230">
 
-```typescript
+```js
 class Engineer {
+
 name = 'Dennis';
 lastname = 'López';
+
 hobbies = 'Reading', 
           'Listening to music', 
           'Playing musical instruments', 
           'Drawing';
+
 languages = ['C', 'C++', 'Python'];
-coding() {}
-reading() {}
-learning() {}
+  coding() {}
+  reading() {}
+  learning() {}
+
 private composing_music() {}
 }
 ```
