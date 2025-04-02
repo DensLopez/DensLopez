@@ -67,7 +67,7 @@ private composing_music() {}
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DensLopez&theme=dark)
 
 --------
-💻 Tecnologías que uso:
+💻:
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?logo=visual-studio-code)
