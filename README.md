@@ -52,9 +52,23 @@ private composing_music() {}
 
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DensLopez&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DensLopez&show_icons=true&theme=dark)
 
 <br />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DensLopez&theme=react-dark)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DensLopez&layout=compact&theme=dark)
+
+<br />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DensLopez&theme=dark)
+
+--------
+💻 Tecnologías que uso:
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?logo=visual-studio-code)
 
