@@ -49,3 +49,5 @@ private composing_music() {}
   <em>"I really enjoy meeting new people, so let's connect!" 
     <p> <img align='center' <img src="gifs/excuse.gif" width="50"> </em> </p>
 </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DensLopez&show_icons=true&theme=radical)
