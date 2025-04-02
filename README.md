@@ -56,7 +56,7 @@ private composing_music() {}
 
 <br />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DensLopez&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DensLopez&theme=react-dark)
 
 <br />
 
