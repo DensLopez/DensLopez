@@ -45,7 +45,7 @@ I’m learning Python for Data Science and interested in:
 
 <div>
   <em>"I really enjoy meeting new people, so let's connect!" 
-    <p> <img align='center' <img src="gifs/excuse.gif" width="50"> </em> </p>
+    <p> <img align='center' <img src="gifs/excuse.gif" width="80"> </em> </p>
 </div>
 <br />
 <br />
