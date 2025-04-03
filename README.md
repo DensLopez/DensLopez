@@ -80,6 +80,8 @@ I’m learning Python for Data Science and interested in:
 
 ## 💻 Languages & Tools:
 
+<br />
+
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
